@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets — never commit tokens or credentials
+.env
+*.pem
+
+# NOTE: do NOT ignore output/ — the exercise requires the generated
+# CSVs and images to be part of your submission.
