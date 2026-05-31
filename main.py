@@ -17,8 +17,8 @@ evaluator can re-point paths without hunting through the code.
 # ----------------------------------------------------------------------------
 import os
 
-INPUT_DIR  = "/mnt/user-data/uploads"          # where the historical CSVs live
-OUTPUT_DIR = "/home/claude/output"             # everything we produce goes here
+INPUT_DIR  = r"C:\Projects\ping_ZemaCodingTest\historicalPriceData"          # where the historical CSVs live
+OUTPUT_DIR = r"C:\Projects\ping_ZemaCodingTest\output"             # everything we produce goes here
 
 # ----------------------------------------------------------------------------
 # IMPORTS
